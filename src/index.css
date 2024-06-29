@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #001345;
+}
+button{
+    background-color: #573E9B;
+}
